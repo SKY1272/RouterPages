@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  font-size: 26px;
+  font-weight: 500px;
+  font-family: sans-serif;
+  margin-top: 50px;
+}
+a {
+  text-decoration: none;
+}
